@@ -1,0 +1,27 @@
+.Signuppage-container {
+    background-image: url(bgimage16.JPG);
+    background-repeat: no-repeat;
+    background-size: 1200px 800px;
+}
+
+.Signuppage {
+    width: 500px;
+    margin-left: 80px;
+    margin-top: 60px;
+}
+
+.h1f1 {
+    color: rgb(245, 4, 4);
+    margin-left: 80px;
+    font-size: 40px;
+}
+
+.Signupbutton {
+    width: 500px;
+    height: 45px;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    background-color: green;
+    color: whitesmoke;
+}

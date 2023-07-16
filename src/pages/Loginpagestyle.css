@@ -1,0 +1,110 @@
+.Loginpage-container {
+    background-image: url("bgimage14.JPG");
+    background-repeat: no-repeat;
+    background-size: 1355px 645px;
+    background-position-x: 5px;
+    background-position-y: 5px;
+}
+
+.h2f1 {
+    color: whitesmoke;
+    margin-top: 20px;
+}
+
+.h2f2 {
+    color: whitesmoke;
+    margin-left: 140px;
+}
+
+.Loginpage {
+    margin-left: 80px;
+    width: 350px;
+}
+
+.form-check {
+    color: whitesmoke;
+    font-size: 15px;
+    
+}
+
+.forgetpassword {
+    color: blue;
+    margin-left: 89px;
+}
+
+.Loginbutton {
+    height: 45px;
+    width: 350px;
+    border: none;
+    background-color: rgb(32, 240, 32);
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+    margin-left: 80px;
+}
+
+.divider-text {
+    margin-left: 230px;
+    margin-top: 27px;
+    position: absolute;
+    color: whitesmoke;
+    font-size: 20px;
+}
+
+.divider {
+    width: 350px;
+    border-bottom: 1px ridge whitesmoke;
+    margin-left: 80px;
+    position: relative;
+    margin-top: 50px;
+}
+
+.Socialmedipage {
+    margin-left: 80px;
+    margin-top: 30px;
+}
+.p1f2 {
+    color: whitesmoke;
+    font-size: 20px;
+    margin-left: 25px;
+}
+.Socialmediabutton1 {
+    width: 350px;
+    height: 45px;
+    border: none;
+    border-radius: 5px;
+    background-color:rgb(10, 173, 248);
+    color: whitesmoke;
+    font-size: 20px;
+    margin-top: -9px;
+}
+
+.Socialmediabutton2 {
+    width: 350px;
+    height: 45px;
+    border: none;
+    border-radius: 5px;
+    background-color: blue;
+    color: whitesmoke;
+    font-size: 20px;
+    margin-top: -9px;
+}
+
+.Socialmediabutton3 {
+    width: 350px;
+    height: 45px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(247, 247, 100);
+    color: red;
+    font-size: 20px;
+}
+
+.p1f3 {
+    color: whitesmoke;
+    margin-left: 140px;
+}
+
+.p1a1 {
+    color: blue;
+}
